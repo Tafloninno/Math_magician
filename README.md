@@ -11,7 +11,7 @@
   
   <br/>
 
-  <h3><b>Leaderboard</b></h3>
+  <h3><b>Math Magician</b></h3>
 
 </div>
 
@@ -41,10 +41,10 @@
 
 
 
-## 📖 Leaderboard <a name="about-project"></a>
+## 📖 Math Magician <a name="about-project"></a>
 
 
-This is a  website that allows to add scores and see scores
+
 
 
 ## 🛠 Built With  VSCode  <a name="Built With VSCode"></a>
@@ -84,7 +84,7 @@ This is a  website that allows to add scores and see scores
 
  ## 🚀 Live Demo <a name="live-demo"></a> 
 
-- [Live Demo Link](https://tafloninno.github.io/Leaderboard/dist/)
+<!-- [Live Demo Link](https://tafloninno.github.io/Leaderboard/dist/) -->
 
 
 
@@ -113,7 +113,7 @@ Example command:
 
 Clone this repository to your desired folder:
 <br>
-<br>gh repo clonehttps://github.com/Tafloninno/Leaderboard
+<br>gh repo clonehttps://github.com/Tafloninno/Math_magician
 
 
 
@@ -126,7 +126,7 @@ Install this project with:
 ```sh
   
   gh repo clone Tafloninno/Leaderboard
-  cd Leaderboard
+  cd Math_magician
   npm install -y
 ```
 
