@@ -49,7 +49,7 @@
 
 ## 🛠 Built With  VSCode  <a name="Built With VSCode"></a>
 
-### HTML/CSS, javascript, Webpack <a name="tech-stack"></a>
+### HTML/CSS, javascript, Webpack, React <a name="tech-stack"></a>
 
 >
 
@@ -62,6 +62,12 @@
 
 <details>
   <summary>Styling</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">CSS</a></li>
+  </ul>
+</details>
+<details>
+  <summary>React</summary>
   <ul>
     <li><a href="https://expressjs.com/">CSS</a></li>
   </ul>
@@ -181,9 +187,9 @@ To run tests, run the following command:
 
 > I'll add the following section to the webpage.
 
-- [ ] **basic page structure**
-- [ ] **send and receive data from API**
-- [ ] **final touches**
+- [ ] **UI Design**
+- [ ] **Refactor with hooks**
+- [ ] **Full website**
 
 
 
