@@ -90,8 +90,8 @@
 
  ## 🚀 Live Demo <a name="live-demo"></a> 
 
-[Live Demo Link](https://tafloninno.github.io/Math_magician/) 
 
+[Live Demo Link](https://tafloninno.github.io/Math_magician/) 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
