@@ -90,7 +90,7 @@
 
  ## 🚀 Live Demo <a name="live-demo"></a> 
 
-<!-- [Live Demo Link](https://tafloninno.github.io/Leaderboard/dist/) -->
+ [Live Demo Link](https://tafloninno.github.io/Math_magician/) 
 
 
 
